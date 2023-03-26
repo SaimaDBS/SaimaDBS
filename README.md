@@ -11,19 +11,17 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
-## View in Github
-https://github.com/SaimaDBS/Fabric-Defect-Detection-Machine-Learning-Algorithm--Images-dataset-Multiclassification.git
 
-#### **PCA Before Sampling**                    
+
+#### **PCA Before and after Sampling**                    
 [Picture2.png](/assets/Picture2.png)             
 
-
+<p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/d3400fa9830a2d1cb3740dc65e436ab339a12ad6/assets/Picture2.png" width="350"></code>
-
+</p)
 #### **PCA After Sampling**
 [Picture1.png](/assets/Picture1.png)
-
-
+  
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/d3400fa9830a2d1cb3740dc65e436ab339a12ad6/assets/Picture1.png" width="350"></code>
 
 ##**Analysis of the factors affecting life expectancy in developing and developed countries with Regression Model using data preprocessing, features selection and its evaluation** <br> <\br>
@@ -33,8 +31,8 @@ The analysis of the dataset taken from kaggle involved finding variables with ma
 
 https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors-.git
 
-## View Code in Github 
-https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors-/blob/bc1b1a6be64055001369079bec0cea958ce538ff/Code_Saima_Saleem.ipynb
+## View in Github
+[Code_Saima_Saleem.ipynb](/assets/Code_Saima_Saleem.ipynb)             
 
 
 
