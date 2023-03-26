@@ -24,7 +24,7 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
   
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/d3400fa9830a2d1cb3740dc65e436ab339a12ad6/assets/Picture1.png" width="350"></code>
 
-##**Analysis of the factors affecting life expectancy in developing and developed countries with Regression Model using data preprocessing, features selection and its evaluation** <br> <\br>
+## **Analysis of the factors affecting life expectancy in developing and developed countries with Regression Model using data preprocessing, features selection and its evaluation** <br> 
 The analysis of the dataset taken from kaggle involved finding variables with major impact on the life expectancy factor of the humans. Analysing and predicting the variables with the aim to study the relationship and to determine the extent to which the variables like adult mortality, smoking, different disease variables affect life expectancy. This also involved predicting and determine whether economic factors have also an impact on the life expectancy. The whole task was done my means of finding the correlation among the variables.
 
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/a7cdefd1405cffab2a568a22ac98fee641618780/assets/Regression%20Anaysis.png" width="500"></code>
