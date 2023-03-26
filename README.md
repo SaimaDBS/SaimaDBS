@@ -12,3 +12,7 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 <img src="git@github.com:SaimaDBS/Fabric-Defect-Detection-Machine-Learning-Algorithm--Images-dataset-Multiclassification.git"/>](https://github.com/SaimaDBS/Fabric-Defect-Detection-Machine-Learning-Algorithm--Images-dataset-Multiclassification.git)
 
 
+![image](https://user-images.githubusercontent.com/101570082/227783777-19240d4e-8769-4eec-9a54-cbde7dc342e1.png=250x250) 
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/101570082/227783777-19240d4e-8769-4eec-9a54-cbde7dc342e1.png)" width="100" height="100">
+![image](https://user-images.githubusercontent.com/101570082/227783969-00940a81-6b90-4136-912d-0222149ab1af.png =250x250)
+
