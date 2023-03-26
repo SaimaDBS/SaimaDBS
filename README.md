@@ -15,3 +15,7 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 [Picture2.png](/assets/Picture2.png)
 #### **PCA After Sampling**
 [Picture1.png](/assets/Picture1.png)
+
+
+<code><img width="10%" src="assets/Picture1.png "width="100" height="100"></code>
+assets/Picture1.png
