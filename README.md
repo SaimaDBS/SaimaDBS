@@ -13,9 +13,11 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 
 #### **PCA Before Sampling**
 [Picture2.png](/assets/Picture2.png)
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/d3400fa9830a2d1cb3740dc65e436ab339a12ad6/assets/Picture2.png" width="350"></code>
+
 #### **PCA After Sampling**
 [Picture1.png](/assets/Picture1.png)
 
 
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/d3400fa9830a2d1cb3740dc65e436ab339a12ad6/assets/Picture1.png" width="350"></code>
-assets/Picture1.png
+
