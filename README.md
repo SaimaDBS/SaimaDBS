@@ -11,10 +11,6 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
-### View Code in Github 
-[Code_Saima_Saleem.ipynb] (/assets/Code_Saima_Saleem.ipynb)
-
-https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-
 
 #### **PCA Before Sampling**                    
 [Picture2.png](/assets/Picture2.png)             
@@ -34,4 +30,9 @@ The analysis of the dataset taken from kaggle involved finding variables with ma
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/a7cdefd1405cffab2a568a22ac98fee641618780/assets/Regression%20Anaysis.png" width="500"></code>
 
 https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors-.git
+
+## View Code in Github 
+https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors-/blob/bc1b1a6be64055001369079bec0cea958ce538ff/Code_Saima_Saleem.ipynb
+
+
 
