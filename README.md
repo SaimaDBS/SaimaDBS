@@ -11,7 +11,8 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
-### View Code in Github [Code_Saima_Saleem.ipynb] (/assets/Code_Saima_Saleem.ipynb)
+### View Code in Github 
+[Code_Saima_Saleem.ipynb] (/assets/Code_Saima_Saleem.ipynb)
 
 https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-
 
