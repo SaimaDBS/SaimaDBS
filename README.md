@@ -86,10 +86,10 @@ A Bike-Mart has multiple stores across the country. There are multiple entities.
 
 
 ### **Graph Databease Neo4J**
-<p float="center">
+
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Neo4J.png" width="700"></code>
-</p)
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes2.png" width="500"></code>
-<p float="center">
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes.png" width="500"></code>
+<p float="left">
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes2.png" width="350"></code>
 </p>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes.png" width="350"></code>
+
