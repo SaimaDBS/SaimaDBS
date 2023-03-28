@@ -11,7 +11,7 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
-[View Code in GitHub ](https://github.com/SaimaDBS/Fabric-Defect-Detection-Machine-Learning-Algorithm--Images-dataset-Multiclassification.git)
+[View Code in Colab ](https://drive.google.com/file/d/1NPJYttLzOoWbQr-MBJvQ5uPpPoVGfNHi/view?usp=sharing)
 
 
 #### **PCA Before and after Sampling**                    
