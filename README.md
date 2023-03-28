@@ -39,3 +39,9 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 
 
 
+
+         
+
+<p float="left">
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/d3400fa9830a2d1cb3740dc65e436ab339a12ad6/assets/Screenshot(1).png" width="350"></code>
+</p)
