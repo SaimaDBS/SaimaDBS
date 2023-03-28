@@ -66,7 +66,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard2.png" width="700"></code>
 
-
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 ## **Data Warehouse Design of a Bike Mart**
 
 A Bike-Mart has multiple stores across the country. There are multiple entities. Top management people are facing difficulty while making any decisions since information is distributed in various locations.There is a need to centralize the information so that business insights can be generated from sales data.
