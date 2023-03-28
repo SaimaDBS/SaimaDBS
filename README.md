@@ -54,7 +54,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(5).png" width="400"></code>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="700"></code>
 
-### **sales made across 18 months by multiple stores of a supermarket chain**
+### **Sales by multiple stores of a supermarket chain**
 
 <p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/1.png" width="400"></code>
