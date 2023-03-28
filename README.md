@@ -32,7 +32,9 @@ The analysis of the dataset taken from kaggle involved finding variables with ma
 https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors-.git
 
 ## View in Github
-[Code_Saima_Saleem.ipynb](/assets/Code_Saima_Saleem.ipynb)             
+[Code_Saima_Saleem.ipynb](/assets/Code_Saima_Saleem.ipynb) 
+
+[View Code in Colab](https://colab.research.google.com/drive/1SQbZZFF5SgkHA7olXyHN3ynIdbO8Ku78?usp=sharing)
 
 
 
