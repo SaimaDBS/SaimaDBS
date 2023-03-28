@@ -11,6 +11,7 @@ In textile industry, manual fabric quality inspection is a challenging task. Inc
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
+[View Code in GitHub ](https://github.com/SaimaDBS/Fabric-Defect-Detection-Machine-Learning-Algorithm--Images-dataset-Multiclassification.git)
 
 
 #### **PCA Before and after Sampling**                    
@@ -33,7 +34,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 
 ## View in Github
 [Code_Saima_Saleem.ipynb](/assets/Code_Saima_Saleem.ipynb) 
-
+## View in Colab
 [View Code in Colab](https://colab.research.google.com/drive/1SQbZZFF5SgkHA7olXyHN3ynIdbO8Ku78?usp=sharing)
 
 
