@@ -1,7 +1,10 @@
 # **Saima Saleem** 
 Data Scientist with 4+ years of experience as data analyst, technical project manager. Master's degree in Data Science from Dublin Business School, Ireland, master's in software engineering and a bachelor's degree in statistics. Currently working at Magee Weaving Mills in Ireland. Previously at Rudolf Pakistan (a subsidiary of Rudolf Group Germany), Pulcra Pakistan (a subsidiary of Pulcra Group Germany), Al-Qayyum Enterprises, Klass Textiles.
-[Connect With Me](https://www.linkedin.com/in/saimasaleem2)
-<a href="www.linkedin.com/in/saimasaleem2">
+<br><br><br>
+#### **CConnect with Me**
+
+[Linkedin](https://www.linkedin.com/in/saimasaleem2)
+
   
  <br><br><br>
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=SaimaDBS)](https://github.com/SaimaDBS)
