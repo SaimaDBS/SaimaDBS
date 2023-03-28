@@ -5,12 +5,8 @@ Data Scientist with 4+ years of experience as data analyst, technical project ma
 
 [Linkedin](https://www.linkedin.com/in/saimasaleem2)
 
-  
- <br><br>
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=SaimaDBS)](https://github.com/SaimaDBS)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
+ <br> 
+ 
 # **Selected projects in data science, machine learning**
 
 
@@ -109,3 +105,6 @@ A Bike-Mart has multiple stores across the country. There are multiple entities.
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes.png" width="350"></code>
 
 <br><br>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=SaimaDBS)](https://github.com/SaimaDBS)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
