@@ -52,8 +52,21 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 </p>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(4).png" width="400"></code>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(5).png" width="400"></code>
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="550"></code>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="700"></code>
 
-### **USA Census Data**
+### **sales made across 18 months by multiple stores of a supermarket chain**
+
+<p float="left">
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(1).png" width="400"></code>
+</p)
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(2).png" width="400"></code>
+<p float="left">
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(3).png" width="500"></code>
+</p>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(4).png" width="400"></code>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(5).png" width="400"></code>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="700"></code>
+
+
 
 
