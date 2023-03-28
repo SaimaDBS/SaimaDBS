@@ -71,9 +71,9 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 
 A Bike-Mart has multiple stores across the country. There are multiple entities. Top management people are facing difficulty while making any decisions since information is distributed in various locations.There is a need to centralize the information so that business insights can be generated from sales data.
 
-### **Relational Database**
+### **Relational Database - Using Microsoft SQL Server, implemented tables and extracted, transformed, loaded the data into the data warehouse. This was done writing SQL statements. Produced reports in support of the requirements using SSRS.**
 
-
+#### **ER Diagram** 
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/ER%20Bike%20mart.png" width="700"></code>
 
 <br><br>
