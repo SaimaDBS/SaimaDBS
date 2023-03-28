@@ -76,9 +76,12 @@ A Bike-Mart has multiple stores across the country. There are multiple entities.
 <p float="center">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/ER%20Bike%20mart.png" width="700"></code>
 </p)
+<br><br>
 ### **Star Schema**
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Starschema.png" width="700"></code>
-<p float="center">
+<p float="center"><br>
+### **Fact Table Population**
+
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Fact%20Table%20Population.png" width="700"></code>
 </p>
 
