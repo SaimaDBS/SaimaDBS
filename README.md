@@ -40,7 +40,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 
 
 
- ## **Data Visualizations- Tableau**   
+ ## **Data Visualizations - Tableau**   
  ### **USA Census Data**
 
 <p float="left">
@@ -67,7 +67,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard2.png" width="700"></code>
 
 
-##**Datawarehouse Design for a bike mart**
+## ** Datawarehouse Design for a bike mart **
 
 A Bike-Mart has multiple stores across the country. There are multiple entities. Top management people are facing difficulty while making any decisions since information is distributed in various locations.There is a need to centralize the information so that business insights can be generated from sales data.
 
