@@ -71,7 +71,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 
 A Bike-Mart has multiple stores across the country. There are multiple entities. Top management people are facing difficulty while making any decisions since information is distributed in various locations.There is a need to centralize the information so that business insights can be generated from sales data.
 
-### **Relational Database **
+### **Relational Database**
 
 <p float="center">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/ER%20Bike%20mart.png" width="700"></code>
@@ -81,11 +81,11 @@ A Bike-Mart has multiple stores across the country. There are multiple entities.
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Fact%20Table%20Population.png" width="700"></code>
 </p>
 
-### **Graph Database **
+### **Graph Databease Neo4J**
 <p float="center">
 <code><https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Neo4J.png" width="700"></code>
 </p)
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes2.png" width="700"></code>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes2.png" width="500"></code>
 <p float="center">
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes.png" width="700"></code>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Nodes.png" width="500"></code>
 </p>
