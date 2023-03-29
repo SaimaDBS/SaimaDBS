@@ -45,24 +45,21 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 ## View in Colab
 [View Code in Colab](https://colab.research.google.com/drive/1SQbZZFF5SgkHA7olXyHN3ynIdbO8Ku78?usp=sharing)
 
-<br><br>
-
-
+<br>
  ## **Data Visualizations - Tableau**   
  ### **USA Census Data**
 
 <p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(1).png" width="400"></code>
 </p)
-<br><br>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(2).png" width="400"></code>
 <p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(3).png" width="500"></code>
-</p><br><br>
+</p>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(4).png" width="400"></code><br><br>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(5).png" width="400"></code><br><br>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="700"></code><br><br>
-<br><br>
+<br>
 
 ### **Sales by multiple stores of a supermarket chain**
 
@@ -73,12 +70,11 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 <p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/3.png" width="500"></code>
 </p>
-<br><br>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard2.png" width="700"></code>
-<br><br>
+<br>
 <code><img width="10%" height="20%" src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Tableau.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code> 
-<br><br>
+<br>
 ## **Data Warehouse Design of a Bike Mart**
 
 A Bike-Mart has multiple stores across the country. There are multiple entities. Top management people are facing difficulty while making any decisions since information is distributed in various locations.There is a need to centralize the information so that business insights can be generated from sales data.
