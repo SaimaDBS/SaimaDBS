@@ -54,13 +54,14 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 <p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(1).png" width="400"></code>
 </p)
+<br><br>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(2).png" width="400"></code>
 <p float="left">
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(3).png" width="500"></code>
-</p>
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(4).png" width="400"></code>
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(5).png" width="400"></code>
-<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="700"></code>
+</p><br><br>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(4).png" width="400"></code><br><br>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Screenshot%20(5).png" width="400"></code><br><br>
+<code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard.png" width="700"></code><br><br>
 <br><br>
 
 ### **Sales by multiple stores of a supermarket chain**
@@ -75,7 +76,7 @@ https://github.com/SaimaDBS/Linear-regression-applied-on-Life-expectancy-factors
 <br><br>
 <code><img src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Dashboard2.png" width="700"></code>
 <br><br>
-<code><img width="10%" height="20%" src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Tableau.png"></code><br><br>
+<code><img width="10%" height="20%" src="https://github.com/SaimaDBS/SaimaDBS/blob/main/assets/Tableau.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code> 
 <br><br>
 ## **Data Warehouse Design of a Bike Mart**
