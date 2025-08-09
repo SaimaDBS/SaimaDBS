@@ -1,5 +1,5 @@
 # **Saima Saleem** 
-Data Scientist with extensive esperience in Machine Learning Projects. Master's degree in Data Analytics and software engineering with a bachelor's degree in statistics. Worked at Magee Weaving Mills in Ireland. Previously at Rudolf Pakistan (a subsidiary of Rudolf Group Germany), Pulcra Pakistan (a subsidiary of Pulcra Group Germany).
+Data Scientist with extensive esperience in Machine Learning Projects. Master's degree in Data Analytics and software engineering with a bachelor's degree in statistics. Worked at Magee Weaving Mills in Ireland. Previously at Rudolf Pakistan (a subsidiary of Rudolf Group Germany), Pulcra Pakistan (a subsidiary of Pulcra Group Germany).<br>
 Programming and Data Analysis: Python (Pandas, Numpy, Imblearn, Tensorflow), R, SQL <br>
 Machine Learning: Supervised (regression, classification), Unsupervised (clustering, PCA), model evaluation and validation ( cross-validation, hyperparameter tuning), feature engineering, data preprocessing <br>
 Data Visualization: Tableau, Power BI, Matplotlib, Plotly, Seaborn <br>
